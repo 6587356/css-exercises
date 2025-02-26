@@ -1,0 +1,20 @@
+.impar {
+    background-color: #e282a2;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+
+}
+
+.segundo-elemento {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.terceiro-elemento {
+    font-size: 24px;
+}
+
+.quarto-elemento {
+    background-color: #72e772;
+    font-size: 24px;
+    font-weight: bold;
+}
