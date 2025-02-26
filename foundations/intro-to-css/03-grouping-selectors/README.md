@@ -17,3 +17,25 @@ This will help you further practice adding classes and using class selectors, so
 - Does each element have a unique class name?
 - Did you use the grouping selector for styles that both elements share?
 - Did you make separate rules for the styles unique to each element?
+
+### README traduzido
+
+# Agrupando Seletores
+
+Vamos construir um pouco a partir do exercício anterior. Aqui, você dará a dois elementos um nome de classe exclusivo, então adicionará regras para estilos que ambos os elementos compartilham, bem como seus próprios estilos exclusivos. Certifique-se de dar uma boa olhada na imagem do resultado abaixo para ver exatamente o que é único sobre cada elemento e o que ambos os elementos têm em comum.
+
+Isso ajudará você a praticar ainda mais a adição de classes e o uso de seletores de classe, então certifique-se de adicionar o atributo class no arquivo HTML. Para o restante desses exercícios, o formato de quaisquer cores depende inteiramente de você; confiamos que você praticará o uso de valores diferentes! As propriedades que você precisa adicionar a cada elemento são:
+
+- **O primeiro elemento**: um fundo preto e texto branco
+- **O segundo elemento**: um fundo amarelo
+- **Ambos os elementos**: um tamanho de fonte de 28px e uma lista de fontes contendo `Helvetica` e `Times New Roman`, com `sans-serif` como fallback
+
+## Resultado desejado
+
+![resultado desejado](./desired-outcome.png)
+
+### Autoverificação
+
+- Cada elemento tem um nome de classe exclusivo?
+- Você usou o seletor de agrupamento para estilos que ambos os elementos compartilham?
+- Você criou regras separadas para os estilos exclusivos de cada
