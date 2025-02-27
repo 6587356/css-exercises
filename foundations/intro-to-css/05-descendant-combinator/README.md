@@ -16,3 +16,22 @@ The properties you need to add are:
 ### Self Check
 - Do the elements that contain the text "This should be styled" have the correct styles applied?
 - Do the elements that contain the text "This should be unstyled" have no styles applied?
+
+### Tradução do README
+# Combinador Descendente
+Entender como os combinadores funcionam pode se tornar muito mais fácil quando você começa a brincar com eles e ver o que exatamente é afetado por eles em comparação com o que não é.
+
+O objetivo deste exercício é aplicar estilos a elementos que são descendentes de outro elemento, enquanto deixa elementos que *não são* descendentes desse elemento sem estilo.
+
+Você pode usar seletores de tipo ou classe para este exercício; use qualquer um que você sinta que deseja praticar mais. O arquivo HTML é configurado (então não há necessidade de editar nada nele) de forma que qualquer combinação de seletores funcione, então se você estiver se sentindo aventureiro, pode até tentar combinar um seletor de tipo *e* classe para o combinador descendente.
+
+As propriedades que você precisa adicionar são:
+
+* Somente os elementos `p` que são descendentes do elemento `div` devem ter um fundo amarelo, texto vermelho, um tamanho de fonte de 20px e alinhamento centralizado.
+
+## Resultado Desejado
+![resultado desejado](./desired-outcome.png)
+
+### Autoverificação
+- Os elementos que contêm o texto "This should be styled" têm os estilos corretos aplicados?
+- Os elementos que contêm o texto "This should be unstyled" não têm estilos aplicados?
