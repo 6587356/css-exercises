@@ -19,3 +19,30 @@ The properties you need to add to each element are:
 - Did you properly chain class selectors for each rule?
 - Does the `proportioned` image retain its original square proportions?
 - Does the `distorted` image end up looking squished and, well, distorted?
+
+### Tradução do README
+
+Seletores de encadeamento
+
+Os créditos pelas imagens neste exercício vão para [Katho Mutodo](https://linktr.ee/photobykatho_) e [Andrea Piacquadio](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels).
+
+Com este exercício, fornecemos a você um arquivo HTML parcialmente concluído que você configurará. O objetivo deste exercício é focar em entender como encadear diferentes seletores, em vez de apenas adicionar atributos. Além disso, você terá a chance de revisar suas imagens HTML.
+
+Temos duas imagens para você estilizar, cada uma com dois nomes de classe, onde um dos nomes de classe é compartilhado. O objetivo aqui é encadear os seletores para ambos os elementos, para que cada um tenha um estilo exclusivo aplicado, apesar de usar um seletor de classe compartilhado. Por exemplo, você quer que um elemento que tenha X e Y tenha um conjunto de estilos, enquanto um elemento com X e Z tenha um conjunto de estilos completamente diferente. Incluímos as imagens originais também, para que você possa ver como os estilos que você adicionará ficam em comparação, então não adicione nenhum estilo a elas.
+
+As propriedades que você precisa adicionar a cada elemento são:
+
+* Faça o elemento com as classes `avatar` e `proportioned` com 300 pixels de largura, então dê a ele uma altura para que ele retenha suas proporções quadradas originais (não codifique um valor de pixel para a altura!).
+* Faça o elemento com as classes `avatar` e `distorted` com 200 pixels de largura, então faça sua altura duas vezes maior que sua largura (aqui você deve codificar um valor de pixel).
+
+## Resultado Desejado
+![resultado desejado](./desired-outcome.png)
+
+### Autoverificação
+- Você encadeou corretamente os seletores de classe para cada regra?
+- A imagem `proporcionada` mantém suas proporções quadradas originais?
+- A imagem `distorcida` acaba parecendo comprimida e, bem, distorcida?
+Enviar feedback
+Painéis laterais
+Histórico
+Salvas
