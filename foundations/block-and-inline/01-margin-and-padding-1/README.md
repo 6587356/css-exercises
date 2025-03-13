@@ -12,3 +12,19 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 - There is a 48px gap between Div Two and Div Three.
 - Div Three is aligned to the right.
 - Div Three's alignment is achieved using `margin` (and not float, flexbox, etc.).
+
+### Tradução do README
+# Prática de Margem e Padding
+
+Para este primeiro exercício, basta editar o arquivo `style.css` para que os divs fiquem como a imagem abaixo. Edite o CSS somente onde instruído no arquivo. Você só deve ter que alterar os valores da margem e do padding para este exercício. Você não deve ter que adicionar ou remover propriedades no CSS ou tocar no HTML.
+
+![outcome](./desired-outcome.png)
+
+### Autoverificação 
+Use esta seção para verificar seu trabalho. Nesses projetos, seu objetivo não é atingir 100% de perfeição de pixels, mas usar as ferramentas que você aprendeu para chegar relativamente perto da saída desejada.
+
+- Div One e Div Three têm 32px entre seu texto e borda.
+- Div One tem 12px entre ele e qualquer outro elemento na página.
+- Há uma lacuna de 48px entre Div Two e Div Three.
+- Div Three está alinhado à direita.
+- O alinhamento de Div Three é obtido usando `margin` (e não float, flexbox, etc.).
