@@ -16,3 +16,24 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 - Everything inside the `.button-container` section is centered, and there is 8px padding.
 - The Big Button is centered on its own line.
 - The Big Button has 24px space on the sides, and 8px on top and bottom.
+
+### Tradução do Readme
+
+# Margem e preenchimento #2
+
+Este é um pouco mais bonito e um pouco mais próximo de algo que você pode ver no mundo real. Você precisará alterar um pouco mais do que apenas margem e preenchimento para que pareça exatamente correto.
+
+## Resultado desejado
+![resultado desejado](./desired-outcome.png)
+
+### Autoverificação
+Use esta seção para verificar seu trabalho. Nesses projetos, seu objetivo não é atingir 100% de perfeição de pixels, mas usar as ferramentas que você aprendeu para chegar relativamente perto da saída desejada.
+
+- Há 8px entre a borda do cartão e seu conteúdo (as seções azuis).
+- Há um espaço de 8px entre cada uma das seções azuis dentro do cartão.
+- O título do cartão usa uma fonte de 16px.
+- Há 8px entre o texto do título e a borda da seção do título.
+- A seção de conteúdo tem 16px de espaço na parte superior e inferior, e 8px em ambos os lados.
+- Tudo dentro da seção `.button-container` é centralizado, e há 8px de preenchimento.
+- O Botão Grande é centralizado em sua própria linha.
+- O Botão Grande tem 24px de espaço nas laterais, e 8px na parte superior e inferior.
